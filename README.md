@@ -1,3 +1,12 @@
+> 以前刚学vue的时候研究了一下react和vue的区别, 看官方文档, 想用ts实现, 发现自己对ts一无所知, 昨天又看了一眼react的官方教程, 结合自己对ts稍微的一点认知, 写了个demo, 索性发上来留作备份
+> 就是react官方的[hello, world](https://reactjs.org/tutorial/tutorial.html)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
